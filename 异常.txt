@@ -1,4 +1,6 @@
+
 fdf
+>>>>>>> 4894034f014653a90d622ce0022dd79e394d0b1b
 2014-7-9 9:38:00 org.apache.catalina.core.StandardService stop
 信息: Stopping service Catalina
 信息: Stopping Coyote HTTP/1.1 on http-8080
